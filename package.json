@@ -1,0 +1,26 @@
+{
+  "name": "dev-tinder-backend",
+  "version": "1.0.0",
+  "description": "tinder for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SajjaPremsai/Dev-Tinder-backend.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript"
+  ],
+  "author": "Sajja Premsai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SajjaPremsai/Dev-Tinder-backend/issues"
+  },
+  "homepage": "https://github.com/SajjaPremsai/Dev-Tinder-backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
